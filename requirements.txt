@@ -10,6 +10,7 @@ django-cloudinary-storage==0.3.0
 django-cors-headers==4.7.0
 djangorestframework==3.16.1
 git-filter-repo==2.47.0
+gunicorn==23.0.0
 h11==0.16.0
 httpcore==1.0.9
 httpx==0.28.1
@@ -19,6 +20,7 @@ numpy==2.2.6
 openai==1.99.9
 opencv-python==4.12.0.88
 opencv-python-headless==4.12.0.88
+packaging==25.0
 pillow==11.3.0
 pydantic==2.11.7
 pydantic_core==2.33.2
